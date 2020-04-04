@@ -5,12 +5,14 @@ body {
 	color: white;
 }
 
-
 p {
   font-size: 20px;
   text-align: center;
 }
 
+.green {
+	color: green;
+}
 
 a {
 	color: yellow;
