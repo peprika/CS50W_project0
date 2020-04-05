@@ -18,4 +18,3 @@ It has a @media query that changes the background color on small screens.
 It includes Bootstrap, a Bootstrap component, and an example of Bootstrap's 12-column grid model.
 
 It uses SCSS variables, SCSS nesting, and SCSS inheritance.
-
