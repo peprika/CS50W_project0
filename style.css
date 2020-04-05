@@ -6,8 +6,8 @@ body {
 }
 
 p {
-  font-size: 20px;
-  text-align: center;
+	font-size: 20px;
+	text-align: center;
 }
 
 .green {
@@ -23,8 +23,8 @@ a {
 }
 
 ul {
-  text-align: center;
-  list-style: inside;
+	text-align: center;
+	list-style: inside;
 }
 
 ol {
