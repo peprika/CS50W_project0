@@ -13,3 +13,30 @@ ul {
 	}
 	
 }
+
+%cell-style {
+	font-family: Verdana;
+	style: bold;
+	font-size: 30;
+	color: black;
+}
+
+.red_cell {
+	@extend %cell-style;
+	background-color: red;
+}
+
+.green_cell {
+	@extend %cell-style;
+	background-color: green;
+}
+
+.blue_cell {
+	@extend %cell-style;
+	background-color: blue;
+}
+
+.yellow_cell {
+	@extend %cell-style;
+	background-color: yellow;
+}

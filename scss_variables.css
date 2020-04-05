@@ -9,4 +9,27 @@ ul {
   color: blue;
 }
 
+.yellow_cell, .blue_cell, .green_cell, .red_cell {
+  font-family: Verdana;
+  style: bold;
+  font-size: 30;
+  color: black;
+}
+
+.red_cell {
+  background-color: red;
+}
+
+.green_cell {
+  background-color: green;
+}
+
+.blue_cell {
+  background-color: blue;
+}
+
+.yellow_cell {
+  background-color: yellow;
+}
+
 /*# sourceMappingURL=scss_variables.css.map */
